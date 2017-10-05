@@ -50,3 +50,9 @@ miscellaneous:
         fb_admins:
         twitter_id:
         google_plus:
+
+# MathJax
+mathjax:
+  enable: true
+  per_page: true
+  cdn: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
